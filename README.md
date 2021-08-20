@@ -33,7 +33,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 * In your terminal run npm i, npm run watch, npm run seed,
 
-* Run the CRUD operators (GET, PUSH, PUT, DELETE) for each API route in Insomnia
+* Run the CRUD operators (GET, PUSH, PUT, DELETE) for each API route in Insomnia at localhost:3001
 
 
 ## Animation & Images
